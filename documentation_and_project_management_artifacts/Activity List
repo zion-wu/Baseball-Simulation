@@ -1,0 +1,16 @@
+# Activity List
+
+- **[2025-05-20]**  
+  - Downloaded Cubs and White Sox season data from ESPN  
+  - Extracted historical matchup records (2020–2025) from ChampsOrChumps.us
+
+- **[2025-05-21]**  
+  - Cleaned batting, pitching, and fielding tables  
+  - Calculated average team statistics (OPS, WAR, ERA, WHIP, DWAR)  
+  - Identified best pitchers by ERA with valid WHIP values
+
+- **[2025-05-22]**  
+  - Incorporated historical win rate and score difference into scoring  
+  - Implemented Monte Carlo simulation in Jupyter notebook  
+  - Generated final win probability outputs and simulation report  
+  - Created project management documentation and README
