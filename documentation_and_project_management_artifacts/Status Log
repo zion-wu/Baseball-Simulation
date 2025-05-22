@@ -1,0 +1,16 @@
+# Status Log
+
+- **2025-05-20**  
+  - Collected ESPN stat files for Cubs and White Sox (batting, pitching, fielding)  
+  - Gathered historical head-to-head results from ChampsOrChumps.us
+
+- **2025-05-21**  
+  - Cleaned and processed batting and pitching tables  
+  - Calculated team average OPS, WAR, ERA, WHIP, and DWAR  
+  - Identified top pitcher based on ERA filtering
+
+- **2025-05-22**  
+  - Integrated historical win rate and score margin into scoring formula  
+  - Finalized simulation notebook with Monte Carlo implementation  
+  - Generated full win probability table and summary output  
+  - Completed README and documentation artifacts
