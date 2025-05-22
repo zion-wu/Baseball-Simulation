@@ -1,0 +1,18 @@
+# Product Backlog
+
+## Features
+- [x] Load and clean Cubs and White Sox batting, pitching, and fielding data
+- [x] Compute average offensive stats and identify best pitchers
+- [x] Calculate team strength scores based on scoring formula
+- [x] Integrate historical matchup win rate and score difference
+- [x] Run Monte Carlo simulation (10,000+ iterations)
+- [x] Export notebook with complete pipeline
+
+## Technical Tasks
+- [x] Filter out invalid or misclassified players (e.g. position players listed in pitching stats)
+- [x] Normalize numeric columns and handle missing data
+- [ ] [Planned] Add visualizations: bar charts, pie charts, score histograms
+
+## Bugs
+- [x] White Sox “top pitcher” incorrectly listed as a shortstop (Jacob Amaya) due to 0.00 ERA filtering issue
+- [x] ESPN stats sheet headers caused column misalignment (fixed by resetting header row)
