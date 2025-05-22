@@ -36,22 +36,6 @@ The goal is to estimate the win probability for each team using:
 
 ---
 
-## Repository Structure
-
-BaseballSimProject/
-├── functional_code/
-│   └── cubs_vs_sox_with_history.ipynb
-├── prepared_data/
-│   ├── cubs.xlsx
-│   ├── white sox.xlsx
-│   └── cubs vs white sox records.xlsx
-├── results/
-│   └── win_probability_results.png (optional)
-├── documentation_and_project_management_artifacts/
-│   └── [Project specs, WBS, backlog, roadmap, etc.]
-
-
----
 
 ## Simulation Result
 
